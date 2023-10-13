@@ -11,8 +11,8 @@ int main() {
         cout << "1. Add a task" << endl;
         cout << "2. Delete a task" << endl;
         cout << "3. Edit a task" << endl;
-        cout << "5. Display tasks" << endl;
-        cout << "4. Search for tasks" << endl;
+        cout << "4. Display tasks" << endl;
+        cout << "5. Search for tasks" << endl;
         cout << "6. Exit" << endl;
         cout << "Choose an action: ";
         int choice;
